@@ -1,0 +1,24 @@
+{
+    "products" [
+        {
+            "name": "appelsin",
+            "price": 5
+        },
+        {
+            "name": "banan",
+            "price": 2
+        },
+        {
+            "name": "leverpostej",
+            "price": 30
+        },
+        {
+            "name": "juice",
+            "price": 12
+        },
+        {
+            "name": "hakkede tomater",
+            "price": 5
+        } 
+    ]
+}
